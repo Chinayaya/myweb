@@ -1,2 +1,2 @@
 # myweb
-<a href="http://www.weather.com.cn/weather1d/101100901.shtml#aboutZS" target="_blank">
+<a href="https://Chinayaya.github.io/myweb/import.html" target="_blank">查看更多>></a>
